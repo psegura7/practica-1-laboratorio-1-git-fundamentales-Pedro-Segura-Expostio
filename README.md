@@ -5,5 +5,5 @@ Name: Pedro Segura Expostio
 Professor: Richard Aviles Lopez
 Nueva linea añadiada desde github
 
-See
 CONTRIBUTING.md for branch and commit conventions.
+
